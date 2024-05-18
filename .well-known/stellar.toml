@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"]
+ACCOUNTS=["GB55IM3L726XLCFVUOWKJMQC7WU7ST2K6K5GCUKIRB6VLYZIGSSYRCUN"]
 
 [DOCUMENTATION]
-ORG_NAME="WallStreetBets"
-ORG_URL="https://www.wsb-stellar.com/"
-ORG_DESCRIPTION="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-ORG_LOGO="https://www.wsb-stellar.com/wsb.png"
+ORG_NAME="China Space"
+ORG_URL="https://www.chinaspace-stellar.com/"
+ORG_DESCRIPTION="The China National Space Administration is a government agency of the People's Republic of China headquartered in Haidian, Beijing, responsible for civil space administration and international space cooperation."
+ORG_LOGO="https://www.chinaspace-stellar.com/cnsa.png"
 
 
 [[CURRENCIES]]
-code="WSB"
+code="CNSA"
 status="live"
-display_decimals=2
-issuer="GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"
+display_decimals=5
+issuer="GB55IM3L726XLCFVUOWKJMQC7WU7ST2K6K5GCUKIRB6VLYZIGSSYRCUN"
 anchor_asset_type="crypto"
-name="WallStreetBets"
-desc="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-image="https://www.wsb-stellar.com/wsb.png"
+name="China Space"
+desc="The China National Space Administration is a government agency of the People's Republic of China headquartered in Haidian, Beijing, responsible for civil space administration and international space cooperation."
+image="https://www.chinaspace-stellar.com/cnsa.png"
